@@ -7,63 +7,71 @@ Each project demonstrates real-world applications of OOP concepts such as **clas
 
 ---
 
-## 📂 Order-Management-System
+## 📂  Laboratory 1 - Library-Book-Management-System
 **Description:**  
-A Java-based system that manages customer orders. It allows creating orders, adding products, calculating totals, and managing order details.
+A Java program that allows users or librarians to handle book records, manage borrowing and returning of books, and keep track of availability.
 
-**OOP Concepts Used:**
-- Classes and Objects
-- Encapsulation
-- Methods and Constructors
+## ✨ **Features:**
+- Add new books to library
+- Borrow and return books
+- View all available books
+- Update book information
 
 ---
 
-## 📂 Smart-Home-Control-System
+## 📂  Laboratory 2 - Booklist
 **Description:**  
-This project simulates a smart home system where different devices (lights, fans, appliances) can be controlled using Java classes.
+A collection of Java practice programs and exercises focused on basic to intermediate OOP concepts.
 
-**OOP Concepts Used:**
-- Inheritance
-- Polymorphism
-- Abstraction
-- Encapsulation
+## ✨ **Features:**
+- Create and store book records with title, author, year published, and current page
+- Display detailed information for each book
 
 ---
 
-## 📂 School-Management-System
-**Description:**  
-A system designed to manage school-related data such as students, teachers, and courses.  
-It organizes information using object-oriented design.
-
-**OOP Concepts Used:**
-- Classes and Objects
-- Inheritance
-- Encapsulation
-- Data management using objects
-
----
-
-## 📂 Coffee-Shop-Rewards-System
+## 📂 Laboratory 3 & 4 - Coffee-Shop-Rewards-System
 **Description:**  
 A Java program that simulates a coffee shop rewards system.  
 Customers earn points for purchases and can redeem rewards based on accumulated points.
 
-**OOP Concepts Used:**
-- Encapsulation
-- Class relationships
-- Conditional logic using methods
+## ✨ **Features:**
+- Add points to cutomer
+- Redeem rewards
+- View customer's info
+- View total customers
 
 ---
 
-## 📂 JavaCodes
+## 📂 Laboratory 5 - School-Management-System
 **Description:**  
-A collection of Java practice programs and exercises focused on basic to intermediate OOP concepts.
+A system designed to manage school-related data such as students, teachers, and courses.  
+It organizes information using object-oriented design.
 
-**OOP Concepts Used:**
-- Basic class creation
-- Methods
-- Control structures
-- Object interaction
+## ✨ **Features:**
+- Display teacher and student's info
+- Used inheritance
+- Proper class relations
+
+---
+
+## 📂 Laboratory 6 - Smart-Home-Control-System
+**Description:**  
+This project simulates a smart home system where different devices (lights, microwaves, aircons, televisions) can be controlled using Java classes.
+
+## ✨ **Features:**
+- Turn on all devices simultaneous
+- Set devices characteristics
+
+---
+
+## 📂 Laboratory 7 - Order-Management-System
+**Description:**  
+A Java-based system that manages customer orders. It allows adding orders, process orders, and managing order details.
+
+## ✨ **Features:**
+- Add and process orders
+- Set status of orders
+- Display order summary
 
 ---
 
